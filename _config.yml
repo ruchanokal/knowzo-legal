@@ -1,0 +1,9 @@
+title: Knowzo Legal
+description: Privacy Policy and legal documents for the Knowzo mobile application.
+theme: jekyll-theme-minimal
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
