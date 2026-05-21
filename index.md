@@ -12,6 +12,11 @@ Legal documents for the Knowzo mobile application.
 - [English](./privacy/)
 - [Türkçe](./privacy-tr/)
 
+## Account Deletion
+
+- [English](./account-deletion/)
+- [Türkçe](./account-deletion-tr/)
+
 ---
 
 Contact: knowzo@yandex.com
