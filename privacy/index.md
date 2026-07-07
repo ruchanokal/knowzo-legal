@@ -75,7 +75,7 @@ Our mobile App does not use traditional browser cookies. Instead, the device's a
 Gameplay data is retained for as long as the App remains installed
 Analytics data is retained per Firebase's default retention settings (typically 14 months for event-level data)
 Crash reports are retained for up to 90 days
-Deletion requests may be sent to knowzo@yandex.com at any time and will be processed within 30 days
+Deletion requests may be sent to knowzoapp@gmail.com at any time and will be processed within 30 days
 
 
 8. Children's Privacy
@@ -91,7 +91,7 @@ Request correction of inaccurate data
 Request deletion or destruction of the data
 Withdraw your consent to ad personalization
 
-Requests may be sent to knowzo@yandex.com. If you are not satisfied with our response, you may file a complaint with the Turkish Personal Data Protection Authority or your local supervisory authority.
+Requests may be sent to knowzoapp@gmail.com. If you are not satisfied with our response, you may file a complaint with the Turkish Personal Data Protection Authority or your local supervisory authority.
 
 
 10. International Data Transfers
@@ -115,7 +115,7 @@ This Privacy Policy may be updated without prior notice. The current version is 
 14. Contact
 For any privacy-related question or request:
 
-Email: knowzo@yandex.com
+Email: knowzoapp@gmail.com
 Postal address: Kemalpaşa Mahallesi, Bağcılar, İstanbul, Türkiye
 
 

@@ -7,7 +7,7 @@ title: Hesap Silme
 
 **Uygulama:** Knowzo
 **Geliştirici:** Ruchan Okal
-**İletişim:** knowzo@yandex.com
+**İletişim:** knowzoapp@gmail.com
 
 Bu sayfa, Knowzo hesabınızı ve ilgili verilerinizi nasıl sileceğinizi açıklar. Google Play ve App Store'un, hesap oluşturma destekleyen uygulamalar için zorunlu kıldığı şeffaflık gereksinimini karşılamak amacıyla yayınlanmıştır.
 
@@ -25,7 +25,7 @@ Silme işlemi anlık olarak gerçekleşir. Onayladıktan sonra oturumunuz kapat�
 
 ## 2. E-posta ile Silme Talebi
 
-Artık uygulamayı açamıyorsanız (örneğin uygulamayı kaldırdıysanız), Knowzo hesabınızla ilişkili e-posta adresinden **knowzo@yandex.com** adresine "Knowzo hesabımı sil" konulu bir e-posta gönderin. Uygulamada kullandığınız görünen adı biliyorsanız e-postaya ekleyin.
+Artık uygulamayı açamıyorsanız (örneğin uygulamayı kaldırdıysanız), Knowzo hesabınızla ilişkili e-posta adresinden **knowzoapp@gmail.com** adresine "Knowzo hesabımı sil" konulu bir e-posta gönderin. Uygulamada kullandığınız görünen adı biliyorsanız e-postaya ekleyin.
 
 Talepler 30 gün içinde işleme alınır. İşlem tamamlandığında e-posta ile bilgilendirme yapılır.
 
@@ -55,7 +55,7 @@ Sizi tanımlayan hiçbir veri yukarıdaki süreleri aşmaz.
 
 ## 6. Sorular
 
-Bu süreçle ilgili herhangi bir soru için **knowzo@yandex.com** adresine yazabilirsiniz. Bu sayfa güncellenebilir; en güncel sürüm her zaman <https://ruchanokal.github.io/knowzo-legal/account-deletion-tr/> adresinde yer alır.
+Bu süreçle ilgili herhangi bir soru için **knowzoapp@gmail.com** adresine yazabilirsiniz. Bu sayfa güncellenebilir; en güncel sürüm her zaman <https://ruchanokal.github.io/knowzo-legal/account-deletion-tr/> adresinde yer alır.
 
 ---
 

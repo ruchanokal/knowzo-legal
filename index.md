@@ -19,4 +19,4 @@ Legal documents for the Knowzo mobile application.
 
 ---
 
-Contact: knowzo@yandex.com
+Contact: knowzoapp@gmail.com

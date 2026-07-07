@@ -16,4 +16,4 @@ The policies are plain Markdown files. To update:
 2. Bump the "Last updated" line at the bottom.
 3. Commit + push to `main`. GitHub Pages will redeploy within a minute.
 
-Contact: knowzo@yandex.com
+Contact: knowzoapp@gmail.com

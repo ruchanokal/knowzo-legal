@@ -7,7 +7,7 @@ title: Account Deletion
 
 **App:** Knowzo
 **Developer:** Ruchan Okal
-**Contact:** knowzo@yandex.com
+**Contact:** knowzoapp@gmail.com
 
 This page explains how to delete your Knowzo account and the data associated with it. It exists to meet the Google Play and App Store requirements for account-deletion transparency for apps that support account creation.
 
@@ -25,7 +25,7 @@ Deletion is immediate. After confirming, you are signed out and returned to the 
 
 ## 2. Deletion By Email Request
 
-If you can no longer open the app (for example, you've already uninstalled it), email **knowzo@yandex.com** from the email address linked to your Knowzo account with the subject "Delete my Knowzo account". Include the display name you used in the app if you know it.
+If you can no longer open the app (for example, you've already uninstalled it), email **knowzoapp@gmail.com** from the email address linked to your Knowzo account with the subject "Delete my Knowzo account". Include the display name you used in the app if you know it.
 
 Requests are processed within 30 days. We will confirm completion by reply email.
 
@@ -55,7 +55,7 @@ We do not currently offer partial data deletion as a separate flow. The account-
 
 ## 6. Questions
 
-For any question about this process, write to **knowzo@yandex.com**. This page may be updated; the current version is always at <https://ruchanokal.github.io/knowzo-legal/account-deletion/>.
+For any question about this process, write to **knowzoapp@gmail.com**. This page may be updated; the current version is always at <https://ruchanokal.github.io/knowzo-legal/account-deletion/>.
 
 ---
 

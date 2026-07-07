@@ -75,7 +75,7 @@ Mobil uygulamamızda klasik anlamda tarayıcı çerezi kullanılmaz. Bunun yerin
 Oyun verileri uygulamayı yüklü tuttuğunuz sürece saklanır
 Analitik veriler Firebase varsayılan saklama süresine tabidir (genellikle olay verileri için 14 ay)
 Çökme raporları en fazla 90 gün saklanır
-Silme talebinizi istediğiniz zaman knowzo@yandex.com adresine iletebilirsiniz; talep 30 gün içinde sonuçlandırılır
+Silme talebinizi istediğiniz zaman knowzoapp@gmail.com adresine iletebilirsiniz; talep 30 gün içinde sonuçlandırılır
 
 
 8. Çocukların Gizliliği
@@ -91,7 +91,7 @@ Yanlış verilerin düzeltilmesini isteme
 Verilerin silinmesini veya yok edilmesini talep etme
 Reklam kişiselleştirmesine ilişkin onayınızı geri çekme
 
-Talepler için knowzo@yandex.com adresine başvurabilirsiniz. KVKK kapsamında yanıtımızdan memnun değilseniz Kişisel Verileri Koruma Kurulu'na şikâyet hakkınız saklıdır.
+Talepler için knowzoapp@gmail.com adresine başvurabilirsiniz. KVKK kapsamında yanıtımızdan memnun değilseniz Kişisel Verileri Koruma Kurulu'na şikâyet hakkınız saklıdır.
 
 
 10. Uluslararası Veri Transferleri
@@ -115,7 +115,7 @@ Bu Gizlilik Politikası önceden bildirimde bulunmaksızın güncellenebilir. G�
 14. İletişim
 Gizlilikle ilgili her türlü soru ve talep için:
 
-E-posta: knowzo@yandex.com
+E-posta: knowzoapp@gmail.com
 Posta adresi: Kemalpaşa Mahallesi, Bağcılar, İstanbul, Türkiye
 
 
